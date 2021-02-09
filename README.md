@@ -1,5 +1,8 @@
 ### Hi there 👋
+[![](https://raw.githubusercontent.com/Murayu0225/Murayu0225/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://raw.githubusercontent.com/Murayu0225/Murayu0225/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=Murayu0225&color=green)
 <!--
 **Murayu0225/Murayu0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
